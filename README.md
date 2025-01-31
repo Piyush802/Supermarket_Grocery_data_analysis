@@ -1,4 +1,4 @@
-# Superstore_sale_dashboard
+# Superstore_sales_dashboard
 
 Power BI dashboards can be a helpfull tool to provide insights into sales performance and trends of an organization.
 The dashboard should include key metrics such as total sales, sales by product, sales by location, sales by customer segment, and sales by product category.
