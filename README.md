@@ -1,9 +1,11 @@
 # Supermarket_Grocery_sales_dashboard
 
 Overview
+
 This project focuses on creating an interactive and insightful Power BI dashboard for analyzing supermarket grocery sales data. The dashboard provides an intuitive interface for users to explore key performance metrics such as sales trends, product performance, customer demographics, and inventory levels. The main objective is to assist supermarket managers and analysts in making data-driven decisions by visualizing important business metrics.
 
 Features
+
 Sales Analysis: Interactive visuals to analyze total sales, sales by product category, and seasonal sales trends.
 Product Performance: Performance breakdown by product, highlighting top-selling and underperforming items.
 Customer Insights: Demographic analysis of customers (age, gender, location) to understand purchasing behavior.
