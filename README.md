@@ -10,7 +10,8 @@ Microsoft Power BI
 
 ### Dashboard:
 
-![image](https://github.com/user-attachments/assets/ade7fd51-3241-4a20-aff7-f23190534153)
+![image](https://github.com/user-attachments/assets/a1e123bd-c5db-4f72-bf18-f1d56d54668b)
+
 
 
 Sales department can analyze sales and profit through this dashboard. Filter through years and quarterly sales.
