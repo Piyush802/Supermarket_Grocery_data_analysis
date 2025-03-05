@@ -7,10 +7,15 @@ This project focuses on creating an interactive and insightful Power BI dashboar
 Features
 
 Sales Analysis: Interactive visuals to analyze total sales, sales by product category, and seasonal sales trends.
+
 Product Performance: Performance breakdown by product, highlighting top-selling and underperforming items.
+
 Customer Insights: Demographic analysis of customers (age, gender, location) to understand purchasing behavior.
+
 Inventory Tracking: Monitoring inventory levels and identifying potential stockouts or overstock situations.
+
 Geospatial Visualization: Mapping sales data across different store locations to identify regional trends.
+
 Time Series Analysis: Trend analysis over time (daily, weekly, monthly) to track growth and seasonality patterns.
 
 ### Tools Used:
